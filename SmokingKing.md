@@ -188,7 +188,7 @@
 
 **Shinobu:** Even with all those holes in your attacks, I still couldn't beat you in the sumo ring.
 
-**Smoking King:** I see... I guess it's time to turn a new leaf. Thank, tough girl.
+**Smoking King:** I see... I guess it's time to turn a new leaf. Thank you, tough girl.
 
 **Shinobu:** Why? You're still more than tough enough for a sumo wrestler.
 
@@ -201,6 +201,74 @@
 **Smoking King:** Someday, when we meet again...
 
 **Shinobu:** Let's go tandem.
+
+**Smoking King:** I'll go easy on you next time, too. Goodbye, tough girl.
+
+**White Sheepman:** In the world of real men, the realest of men rise up from nothing.
+
+**White Sheepman:** You two are like big, sweaty sumos locked up in a big, sweaty sumo hug. Can't wait to see you again.
+
+# Bad Girl
+
+## Pre-fight dialogue
+
+**Bad Girl:** Oh shit! This place is for reals hella rad!
+
+**Smoking King:** Yeah, it's my own communal bath. Isn't the view amazing?
+
+**Bad Girl:** Hey Yokozuna! You got pretty good taste, huh?!
+
+**Smoking King:** Luxury, greed, and riches have limits. This bath is sort of a farewell to all of that.
+
+**Bad Girl:** So what's the holdup, huh?! You're a big, tough sumo boy, aren't you? Let's hurry up and KILL!
+
+**Smoking King:** Listen, racer. Standing on the borderline itself is how you feel the world of true speed.
+
+**Smoking King:** If you're not standing on that line, then you're no racer - just some random.
+
+**Bad Girl:** I got a motorcycle license!
+
+**Smoking King:** Don't misunderstand, tough girl. From here on out, I'm a bodyguard.
+
+**Bad Girl:** Do whatever, I don't care!
+
+**Smoking King:** The champion. Smoking King's bodyguard.
+
+**Bad Girl:** I got no idea who these people are, but I'll kill them all at once!
+
+## Mid-fight dialogue
+
+**Smoking King:** Tough girl... That's some impressive power.
+
+**Bad Girl:** Kill kill KILL!
+
+**Smoking King:** But the real battle begins now!
+
+## Post-fight dialogue
+
+**Smoking King:** I've lost... What a disappointment...
+
+**Bad Girl:** You're pretty awesome, Yokozuna!
+
+**Smoking King:** I am not a good man. I'm full of greed and avarice.
+
+**Bad Girl:** Hey Yokozuna, let's do this again! I think we could actually be friends.
+
+**Smoking King:** I see... I guess it's time to turn a new leaf. Thank you, tough girl.
+
+**Bad Girl:** What's that mean?
+
+**Smoking King:** I'm afraid I've reached my limit.
+
+**Bad Girl:** Are you shitting me?! You gonna give up now when this shit's finally getting good?!
+
+**Smoking King:** Bad Girl... You've got a ways to go as a racer, but you truly are a champ.
+
+**Smoking King:** Someday, when we meet again...
+
+**Bad Girl:** Definitely! Let's ride!
+
+**Bad Girl:** That's a promise, got it?!
 
 **Smoking King:** I'll go easy on you next time, too. Goodbye, tough girl.
 
